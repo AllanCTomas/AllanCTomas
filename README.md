@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning ...
 - 
-  GitHub nad Git
+  GitHub and Git
   
 - 💞️ I’m looking to collaborate on ...
   
